@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Vale-Flo/vale-flo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting!
+I'm a civil engineer with a strong interest in software development, currently studying at 42 School.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Low-level:** C, C++
+**Web:** JavaScript, TypeScript, HTML, CSS, MySQL
+**General-purpose:** Python
+
+## 🎓 Background
+
+Experience across multiple 42 projects involving:
+
+* Systems programming
+* Parsers & shells
+* Concurrency & threading
+* Graphics & raycasting
+* HTTP servers
+* Algorithms & data structures
+
+⭐️ Feel free to explore my repositories!
+
