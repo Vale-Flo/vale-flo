@@ -5,10 +5,10 @@ I'm a civil engineer with a strong interest in software development, currently s
 
 ## 🔧 Technologies I Work With
 
-**Low-level:** C, C++
-**Web:** JavaScript, TypeScript, HTML, CSS, MySQL
-**General-purpose:** Python
-**Systems & tools:** Bash, Linux, Docker
+* **Low-level:** C, C++
+* **Web:** JavaScript, TypeScript, HTML, CSS, MySQL
+* **General-purpose:** Python
+* **Systems & tools:** Bash, Linux, Docker
 
 ## 🎓 Background
 
