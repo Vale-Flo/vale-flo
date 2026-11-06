@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Thanks for visiting!
-I'm a civil engineer with a strong interest in software development, currently studying at 42 School.
+Software Engineer with a civil engineering background, trained at École 42.
 
 ## 🔧 Technologies I Work With
 
