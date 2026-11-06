@@ -1,7 +1,8 @@
 # Hi there 👋
 
 Thanks for visiting!
-Software Engineer with a civil engineering background, trained at École 42.
+
+I'm a Software Engineer with a civil engineering background, trained at École 42.
 
 ## 🔧 Technologies I Work With
 
